@@ -1,0 +1,5 @@
+export { default as BuggerIcon } from './Bugger'
+export { default as ChallengeIcon } from './Challenge'
+export { default as CloseIcon } from './Close'
+export { default as NoticeIcon } from './Notice'
+export { default as RecordIcon } from './Record'
